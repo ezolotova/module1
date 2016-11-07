@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8a4dd2f-d368-4eea-ab6a-9ffffeef9756" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FourthClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FifthClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaCource5.iws" />
@@ -54,8 +54,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FourthClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FourthClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FourthClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FifthClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FifthClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
@@ -88,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/SecondClass.java" />
         <option value="$PROJECT_DIR$/src/ThirdClass.java" />
         <option value="$PROJECT_DIR$/src/FourthClass.java" />
+        <option value="$PROJECT_DIR$/src/FifthClass.java" />
       </list>
     </option>
   </component>
@@ -482,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478538057853</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="this is commit  fourth class">
+      <created>1478538238502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1478538238502</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -549,7 +567,8 @@
     <MESSAGE value="this is test commit" />
     <MESSAGE value="this is commit second class" />
     <MESSAGE value="this is commit  third class" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is commit  third class" />
+    <MESSAGE value="this is commit  fourth class" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is commit  fourth class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -609,6 +628,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FourthClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FifthClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
